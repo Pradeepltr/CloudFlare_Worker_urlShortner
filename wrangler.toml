@@ -1,0 +1,7 @@
+name = "url_shortner"
+main = "src/index.js"
+compatibility_date = "2022-08-16"
+kv_namespaces =[
+   { binding = "url", id = "c61052c26c9b4853a8fa6f05e42e0bbd" } 
+]
+
